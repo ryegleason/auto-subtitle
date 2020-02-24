@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pre-trained model
+deepspeech-0.6.1-models/
+
+# Output files
+*.mp4
+*.vtt
+*.srt
+*.m4a
+*.wav
+*.ytdl
+*.part
